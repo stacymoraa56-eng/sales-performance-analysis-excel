@@ -105,6 +105,9 @@ A What-If model was developed to simulate changing business conditions.
 ### Key Finding
 High discounts combined with increased costs can significantly reduce profitability and may result in negative profit margins.
 
+---
+# Dashboard Preview 
+![Dashboard](https://github.com/stacymoraa56-eng/sales-performance-analysis-excel/blob/main/Sales%20Performance%20Analysis%20Dashboard.png)
 
 
 #  Dashboard Features
@@ -158,7 +161,7 @@ Based on the analysis, the following recommendations were proposed:
 
 #  Tools Used
 
-- Excel / WPS Spreadsheet
+- Excel 
 - Pivot Tables
 - Pivot Charts
 - Data Cleaning & Transformation
