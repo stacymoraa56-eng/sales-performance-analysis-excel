@@ -184,3 +184,13 @@ This project demonstrates practical business analytics skills including:
 
 The dashboard supports data-driven decision-making and highlights the impact of pricing, channels, and operational efficiency on business performance.
 
+## Project File
+
+The complete Excel dashboard and analysis workbook can be accessed in this repository.
+## Note
+
+Some interactive Excel features such as slicers may not function fully in browser-based previews. For the best experience, download and open the workbook locally using Excel or WPS Spreadsheet.
+
+
+Optional Live Version:
+[View Workbook Online](https://docs.google.com/spreadsheets/d/1LSxTxGDINwtVN5ZGQQTwmCJvER31T3u9VjY-YSvsnHc/edit?usp=sharing)
